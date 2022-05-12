@@ -128,9 +128,6 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
-body{
-	background: #e0dbef;
-}
 
 .wrapper{
   margin-top: 2.5em;
@@ -208,5 +205,17 @@ body{
 .btnfilter-series:hover{
   background-color: #666464 !important;
   color: white !important;
+}
+
+.big-card{
+  padding: 15px !important;
+}
+
+.big-card img{
+  border-radius: 1rem;
+  max-width: 100% !important;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
